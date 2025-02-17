@@ -1,1 +1,1 @@
-# Swinburen---Applied-Machine-Learning
+# Swinburne---Applied-Machine-Learning
